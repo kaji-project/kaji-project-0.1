@@ -1,3 +1,3 @@
-[submodule "components/pynag"]
-	path = components/pynag
+[submodule "obs_components/pynag"]
+	path = obs_components/pynag
 	url = git@github.com:kaji-project/pynag.git

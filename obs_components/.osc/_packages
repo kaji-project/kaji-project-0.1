@@ -1,0 +1,8 @@
+<project name="home:kaji-project">
+  <package name="adagios" state=" " />
+  <package name="nagvis" state=" " />
+  <package name="okconfig" state=" " />
+  <package name="pnp4nagios" state=" " />
+  <package name="pynag" state=" " />
+  <package name="shinken" state=" " />
+</project>
