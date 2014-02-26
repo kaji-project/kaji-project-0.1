@@ -1,3 +1,18 @@
 [submodule "obs_components/pynag"]
 	path = obs_components/pynag
 	url = git@github.com:kaji-project/pynag.git
+[submodule "obs_components/nagvis"]
+	path = obs_components/nagvis
+	url = git@github.com:kaji-project/nagvis.git
+[submodule "obs_components/adagios"]
+	path = obs_components/adagios
+	url = git@github.com:kaji-project/adagios.git
+[submodule "obs_components/shinken"]
+	path = obs_components/shinken
+	url = git@github.com:kaji-project/shinken.git
+[submodule "obs_components/pnp4nagios"]
+	path = obs_components/pnp4nagios
+	url = git@github.com:kaji-project/pnp4nagios.git
+[submodule "obs_components/okconfig"]
+	path = obs_components/okconfig
+	url = git@github.com:kaji-project/okconfig.git
