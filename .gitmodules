@@ -16,3 +16,6 @@
 [submodule "obs_components/okconfig"]
 	path = obs_components/okconfig
 	url = git@github.com:kaji-project/okconfig.git
+[submodule "obs_components/kaji"]
+	path = obs_components/kaji
+	url = git@github.com:kaji-project/kaji.git

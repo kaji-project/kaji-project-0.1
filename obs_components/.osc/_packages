@@ -5,4 +5,5 @@
   <package name="pnp4nagios" state=" " />
   <package name="pynag" state=" " />
   <package name="shinken" state=" " />
+  <package name="kaji" state=" " />
 </project>
