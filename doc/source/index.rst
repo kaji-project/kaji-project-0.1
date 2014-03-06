@@ -2,11 +2,9 @@
    sphinx-quickstart on Mon Mar  3 22:35:35 2014.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
-
-Welcome to Kaji's documentation!
-================================
-
-Contents:
+====================
+Kaji's documentation
+====================
 
 .. toctree::
    :maxdepth: 2
@@ -14,14 +12,5 @@ Contents:
    whatiskaji
    roadmap
    installation
-   
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
+   quickstart
+   knownissues
