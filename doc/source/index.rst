@@ -11,6 +11,11 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
+   whatiskaji
+   roadmap
+   installation
+   
+
 
 
 Indices and tables
