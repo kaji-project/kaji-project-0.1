@@ -1,5 +1,6 @@
 .. _whatiskaji:
 
+=============
 What is Kaji?
 =============
 
