@@ -19,3 +19,6 @@
 [submodule "obs_components/kaji"]
 	path = obs_components/kaji
 	url = git@github.com:kaji-project/kaji.git
+[submodule "obs_components/graphite-web"]
+	path = obs_components/graphite-web
+	url = git@github.com:kaji-project/graphite-web.git
