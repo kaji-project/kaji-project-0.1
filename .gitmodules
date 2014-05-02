@@ -28,3 +28,6 @@
 [submodule "obs_components/shinken-module-pickle-retention-file-generic"]
 	path = obs_components/shinken-module-pickle-retention-file-generic
 	url = git@github.com:kaji-project/shinken-module-pickle-retention-file-generic.git
+[submodule "obs_components/shinken-module-graphite"]
+	path = obs_components/shinken-module-graphite
+	url = git@github.com:kaji-project/shinken-module-graphite/
