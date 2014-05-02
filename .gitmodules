@@ -25,3 +25,6 @@
 [submodule "obs_components/shinken-module-livestatus"]
 	path = obs_components/shinken-module-livestatus
 	url = git@github.com:kaji-project/shinken-module-livestatus.git
+[submodule "obs_components/shinken-module-pickle-retention-file-generic"]
+	path = obs_components/shinken-module-pickle-retention-file-generic
+	url = git@github.com:kaji-project/shinken-module-pickle-retention-file-generic.git
