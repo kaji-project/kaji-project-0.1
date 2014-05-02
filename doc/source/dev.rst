@@ -29,6 +29,8 @@ Add a new sub repository
 
 ::
 
+  git clone git@github.com:kaji-project/graphite-web.git .
+  cp ../shinken/build_package.sh .
   git add .
   git commit -m "First commit"
 
