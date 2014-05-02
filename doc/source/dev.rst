@@ -31,6 +31,8 @@ Add a new sub repository
 
   git clone git@github.com:kaji-project/graphite-web.git .
   cp ../shinken/build_package.sh .
+  cp ../shinken/.gitignore .
+  osc checkout home:kaji-project graphite-web -o .
   git add .
   git commit -m "First commit"
 
@@ -55,3 +57,6 @@ Go to the root folder in the main kaji repository (kaji-project) and type:
 
 
 Then commit your new sub repository
+
+
+
