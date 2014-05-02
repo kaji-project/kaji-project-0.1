@@ -22,14 +22,14 @@ Add a new sub repository
 
 ::
 
-  mkdir -p obs_components/graphite-web
-  cd obs_components/graphite-web
+  cd obs_components
 
 # Make your first commit
 
 ::
 
-  git clone git@github.com:kaji-project/graphite-web.git .
+  git clone git@github.com:kaji-project/graphite-web.git
+  cd graphite-web
   cp ../shinken/build_package.sh .
   cp ../shinken/.gitignore .
   osc checkout home:kaji-project graphite-web -o .
@@ -47,12 +47,6 @@ Add a new sub repository
 ::
 
   git submodule add git@github.com:kaji-project/graphite-web.git obs_components/graphite-web
-
-
-Go to the root folder in the main kaji repository (kaji-project) and type:
-
-::
-
   git add obs_components/graphite-web
 
 
