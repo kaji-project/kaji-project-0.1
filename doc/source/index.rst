@@ -15,3 +15,4 @@ Kaji's documentation
    installation
    quickstart
    knownissues
+   dev
