@@ -1,5 +1,10 @@
 .. _whatiskaji:
 
+.. image:: _static/logo.png
+    :alt: Kaji logo
+    :height: 300px
+    :width: 300px
+
 =============
 What is Kaji?
 =============

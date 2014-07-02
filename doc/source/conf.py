@@ -14,6 +14,7 @@
 
 import sys
 import os
+import sphinx_rtd_theme
 
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
@@ -98,36 +99,15 @@ pygments_style = 'sphinx'
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
-html_theme = 'basicstrap'
+html_theme = 'sphinx_rtd_theme'
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
 # documentation.
-html_theme_options = {
-    'sidebar_span': 3,
-#    'header_inverse': True,
-#    'relbar_inverse': True,
-    'inner_theme': True,
-#    'inner_theme_name': 'bootswatch-amelia',
-#    'inner_theme_name': 'bootswatch-cerulean',
-#    'inner_theme_name': 'bootswatch-cosmo',
-#    'inner_theme_name': 'bootswatch-cyborg',
-#    'inner_theme_name': 'bootswatch-journal',
-#    'inner_theme_name': 'bootswatch-readable',
-#    'inner_theme_name': 'bootswatch-simplex',
-#    'inner_theme_name': 'bootswatch-slate',
-    'inner_theme_name': 'bootswatch-spacelab',
-#    'inner_theme_name': 'bootswatch-spruce',
-#    'inner_theme_name': 'bootswatch-superhero',
-#    'inner_theme_name': 'bootswatch-united',
-#    'inner_theme_name': 'bootswatch-flatly',
-  'googlewebfont': True,
-  'googlewebfont_url': 'http://fonts.googleapis.com/css?family=Raleway',
-  'googlewebfont_style': "font-family: 'Raleway', sans-serif",
-}
+#html_theme_options = {}
 
 # Add any paths that contain custom themes here, relative to this directory.
-#html_theme_path = []
+html_theme_path = ["../theme"]
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
