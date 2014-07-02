@@ -1,11 +1,10 @@
 Known Issues
 ============
 
-Shinken doesn't start automatically at the startup.
+Shinken doesn't start automatically at startup.
 
-6ou have to launch manually Shinken with the following command:
+You have to launch Shinken manually with the following command:
 
 ::
 
   sudo service shinken restart
-
