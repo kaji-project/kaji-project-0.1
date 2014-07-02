@@ -4,6 +4,7 @@
     :alt: Kaji logo
     :height: 300px
     :width: 300px
+    :align: center
 
 =============
 What is Kaji?
